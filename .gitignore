@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Exercise output — generated at runtime, do not commit
+report.html
+
+*-plan.md
+.vscode/
